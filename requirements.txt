@@ -7,3 +7,5 @@ seaborn~=0.11.1
 scikit-learn~=0.24.1
 tsfresh
 pywavelets
+catboost
+jupyter
